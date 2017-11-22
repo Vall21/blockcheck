@@ -183,3 +183,7 @@ IP: 37.20.174.xxx, провайдер: Kemerovo Regional Telegraph, branch of Ku
 [⚠] Ваш провайдер полностью блокирует доступ к HTTPS-сайтам из реестра.
 
 [⚠] У вашего провайдера "обычный" DPI. Вам поможет HTTPS/Socks прокси, VPN или Tor.
+
+  ### Скриншот страницы сайта LinkedIn.com
+
+![](https://github.com/yuliaii/DPI/blob/master/1.jpg)
